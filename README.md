@@ -3,7 +3,7 @@
 ## Overview
 Yoga is a practice that originated in ancient India, aimed at balancing the mind and body through meditation, exercise, and regulated breathing. Hatha Yoga, a type of physical yoga, consists of postures (asanas) performed in a continuous sequence. Correct identification of yoga poses is essential to ensure proper practice and alignment with individual needs.
 
-This repository provides an implementation of yoga pose classification from images using a transfer learning approach. The model classifies yoga poses from images of five different asanas, leveraging pre-trained deep learning models to achieve high accuracy.
+This repository provides an implementation of yoga pose classification from images using a transfer learning approach. The model classifies yoga poses from images of five different asanas, leveraging pre-trained deep learning models to achieve high accuracy. Follow this link : https://ijirt.org/publishedpaper/IJIRT167821_PAPER.pdf
 
 ## Summary
 In this project, a total of 1551 images representing 5 distinct yoga postures were used. The images were resized to optimize computation. Transfer learning was employed, utilizing 10 different pre-trained models for classification.
